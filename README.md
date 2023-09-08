@@ -1,3 +1,3 @@
 # TaskPal
 
-A task tracking app in Flutter (Test).
+A task tracking app in Flutter (Practice).
